@@ -1,0 +1,9 @@
+name: car
+dependencies:
+  - pandas
+  - pip
+  - python  
+  # for tests only START
+  - pytest
+  - pytest-mock
+  # for test only END
